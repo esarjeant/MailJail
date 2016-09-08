@@ -1,9 +1,30 @@
-### Example user template template
-### Example user template
-
 # IntelliJ project files
 .idea
 *.iml
 out
 gen
-# Created by .ignore support plugin (hsz.mobi)
+
+# Build directory
+target/
+build/
+bin/
+
+# SVN
+.svn
+
+# Gradle files
+.gradle
+gradlew
+gradlew.bat
+gradle
+
+# Backup files
+*~
+
+# Misc hidden files
+.DS_Store
+
+# class files
+*.class
+
+git.properties
